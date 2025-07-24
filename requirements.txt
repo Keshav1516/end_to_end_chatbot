@@ -1,7 +1,3 @@
-streamlit
-numpy
-pandas
-os
-nltk
-ssl
-scikit-learn
+streamlit>=1.34.0
+scikit-learn>=1.3.0
+nltk>=3.8.1
