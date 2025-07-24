@@ -1,6 +1,7 @@
 streamlit
+numpy
+pandas
 os
 nltk
 ssl
-LogisticRegression
 scikit-learn
